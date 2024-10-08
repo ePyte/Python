@@ -1,5 +1,5 @@
-# About The project
-The permutation.py script's goal is to calculate all the possible permutations of given int list.
+# About the project
+The permutation.py script's goal is to calculate all the possible permutations of a given int list.
 
 # Details
 The script can be started from Terminal with the following prompt: 
